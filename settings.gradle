@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Fragments_and_navigation"
